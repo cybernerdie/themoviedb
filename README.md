@@ -2,7 +2,16 @@
 
 # Laravel Movies Example
 
-
+ ## Technologies:
+    PHP(Laravel), 
+    MYSQL,
+    HTML, 
+    JAVASCRIPT, 
+    CSS,
+    BOOTSTRAP,
+    Tailwindcss,
+    AlpineJs
+    
 ## Installation
 
 1. Clone the repo and `cd` into it
